@@ -1,0 +1,32 @@
+.content {
+	-fx-background-color: black;
+	-fx-font-family: 'Architects Daughter';
+}
+.textTitle {
+	-fx-text-fill: #ff00ff;
+	-fx-font-size: 32px;
+}
+
+.textCounter {
+	-fx-text-fill: #ff80ff;
+	-fx-font-size: 32px;
+}
+
+.buttons {
+	-fx-background-color: white;
+	-fx-font-size: 28px;
+	-fx-text-fill: #ff00ff;
+	-fx-min-width: 70px;
+	-fx-min-higth: 70px;
+	-fx-background-radius: 35px;
+}
+
+.setRed {
+	-fx-font-size: 32px;
+	-fx-text-fill: #ff0080;
+}
+
+.setGreen {
+	-fx-font-size: 32px;
+	-fx-text-fill: #00ff40;
+}
